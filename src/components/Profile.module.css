@@ -1,0 +1,21 @@
+
+.id {
+    font-weight: bold;
+    color: red;
+  }
+  .id span {
+    font-size: 2.2rem;
+    color: orangered;
+  }
+  .name {
+    color: coral;
+  }
+  .email {
+    font-style: italic;
+  
+  }
+  .about {
+    font-size: 1.2rem;
+    color: blanchedalmond;
+  
+  }
